@@ -33,5 +33,3 @@ Will be updated until at least **April 2020**.
 # Why?  
 
 Originated from an exercice, while following the BeCode foramtion in Charleroi, Belgium.
-
-
