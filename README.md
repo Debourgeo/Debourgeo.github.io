@@ -1,7 +1,7 @@
-# Ça, c'est mon README. Il y en a beaucoup comme ça, mais lui c'est le mien.  
-# Mon README, c'est mon vrai copain, lui c'est ma vie.  
-# Il faut que je maîtrise mon README comme il faut que je maîtrise ma vie.  
-# Car sans moi, mon README ne sert à rien. Et sans mon README, je ne sers plus à rien.  
+## Ça, c'est mon **README**. Il y en a beaucoup comme ça, mais lui c'est le mien.  
+## Mon **README**, c'est mon vrai copain, lui c'est ma vie.  
+## Il faut que je maîtrise mon **README** comme il faut que je maîtrise ma vie.  
+## Car sans moi, mon **README** ne sert à rien. Et sans mon **README**, je ne sers plus à rien.  
 
 ## Who?
 
@@ -10,12 +10,12 @@ Pretty new to all these things: Github, Markdown, ...
 
 ## What?
 
-An evolutive display of skills. (hopefully)  
+An evolutive display of skills. *(hopefully)*  
 
 ## When?
 
-Started the 12 of September, 2019.  
-Will be updated until at least April 2020.  
+Started the 12th of **September, 2019**.  
+Will be updated until at least **April 2020**.  
 
 ## The journey
 
