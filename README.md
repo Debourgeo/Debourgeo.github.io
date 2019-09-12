@@ -27,7 +27,7 @@ Will be updated until at least **April 2020**.
 
 # Content
 
-- [This index](https://github.com/Debourgeo/Debourgeo.github.io)  
+- [This index](https://debourgeo.github.io/)  
 -  
 
 # Why?  
