@@ -3,21 +3,21 @@
 ## Il faut que je maîtrise mon **README** comme il faut que je maîtrise ma vie.  
 ## Car sans moi, mon **README** ne sert à rien. Et sans mon **README**, je ne sers plus à rien.  
 
-## Who?
+# Who?
 
 This one belongs to Denis, a newbie walking trough the meadow.  
 Pretty new to all these things: Github, Markdown, ...  
 
-## What?
+# What?
 
 An evolutive display of skills. *(hopefully)*  
 
-## When?
+# When?
 
 Started the 12th of **September, 2019**.  
 Will be updated until at least **April 2020**.  
 
-## The journey
+# The journey
 
 ### First phase : The meadow.
 
@@ -25,12 +25,12 @@ Will be updated until at least **April 2020**.
 - Markdown  
 -  
 
-## Content
+# Content
 
-- [This index] (https://github.com/Debourgeo/Debourgeo.github.io)  
+- [This index](https://github.com/Debourgeo/Debourgeo.github.io)  
 -  
 
-## Why?  
+# Why?  
 
 Originated from an exercice, while following the BeCode foramtion in Charleroi, Belgium.
 
